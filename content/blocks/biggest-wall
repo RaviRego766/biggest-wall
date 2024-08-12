@@ -1,0 +1,12 @@
+type: Wall
+name: Biggest Wall
+description: A Biggset wall. 
+size: 8
+health: 22000
+category: defense
+research: copper-wall
+requirements: [
+  copper/1000
+]
+squareSprite: false
+researchCostMultiplier: 0.5
